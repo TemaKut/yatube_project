@@ -9,4 +9,4 @@ def index(request):
 
 
 def group_posts(request, slug):
-    return HttpResponse('You print')
+    return HttpResponse('You кprint')
